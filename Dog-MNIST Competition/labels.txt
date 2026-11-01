@@ -1,0 +1,10 @@
+0	Bedlington_terrier
+1	Boston_bull
+2	English_setter
+3	Italian_greyhound
+4	Labrador_retriever
+5	Norfolk_terrier
+6	Walker_hound
+7	boxer
+8	golden_retriever
+9	wire-haired_fox_terrier

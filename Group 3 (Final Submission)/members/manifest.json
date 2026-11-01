@@ -1,0 +1,110 @@
+[
+  {
+    "file": "final_DROP_EP480_s0.pt",
+    "member": "DROP_EP480",
+    "seed": 0,
+    "params": 308650,
+    "final_train_loss": 0.007651647583383029,
+    "seconds": 191.41314363479614,
+    "torch_version": "2.13.0+cu132"
+  },
+  {
+    "file": "final_DROP_EP480_s1.pt",
+    "member": "DROP_EP480",
+    "seed": 1,
+    "params": 308650,
+    "final_train_loss": 0.007033879639672451,
+    "seconds": 190.72641324996948,
+    "torch_version": "2.13.0+cu132"
+  },
+  {
+    "file": "final_DROP_EP480_s2.pt",
+    "member": "DROP_EP480",
+    "seed": 2,
+    "params": 308650,
+    "final_train_loss": 0.007141373685148895,
+    "seconds": 489.36900424957275,
+    "torch_version": "2.13.0+cu132"
+  },
+  {
+    "file": "final_DROP_EP480_MIX_s0.pt",
+    "member": "DROP_EP480_MIX",
+    "seed": 0,
+    "params": 308650,
+    "final_train_loss": 0.8149158290175141,
+    "seconds": 395.4940347671509,
+    "torch_version": "2.13.0+cu132"
+  },
+  {
+    "file": "final_DROP_EP480_MIX_s1.pt",
+    "member": "DROP_EP480_MIX",
+    "seed": 1,
+    "params": 308650,
+    "final_train_loss": 0.7750805088731109,
+    "seconds": 368.02233815193176,
+    "torch_version": "2.13.0+cu132"
+  },
+  {
+    "file": "final_DROP_EP480_MIX_s2.pt",
+    "member": "DROP_EP480_MIX",
+    "seed": 2,
+    "params": 308650,
+    "final_train_loss": 0.730962722027888,
+    "seconds": 423.6801428794861,
+    "torch_version": "2.13.0+cu132"
+  },
+  {
+    "file": "final_DROP_EP480_CUTOUT_s0.pt",
+    "member": "DROP_EP480_CUTOUT",
+    "seed": 0,
+    "params": 308650,
+    "final_train_loss": 0.12060984627145235,
+    "seconds": 684.0299832820892,
+    "torch_version": "2.13.0+cu132"
+  },
+  {
+    "file": "final_DROP_EP480_CUTOUT_s1.pt",
+    "member": "DROP_EP480_CUTOUT",
+    "seed": 1,
+    "params": 308650,
+    "final_train_loss": 0.11728299250368213,
+    "seconds": 706.865407705307,
+    "torch_version": "2.13.0+cu132"
+  },
+  {
+    "file": "final_DROP_EP480_CUTOUT_s2.pt",
+    "member": "DROP_EP480_CUTOUT",
+    "seed": 2,
+    "params": 308650,
+    "final_train_loss": 0.14701357044157434,
+    "seconds": 523.7191874980927,
+    "torch_version": "2.13.0+cu132"
+  },
+  {
+    "file": "final_DROP_EP480_CUTMIX_s0.pt",
+    "member": "DROP_EP480_CUTMIX",
+    "seed": 0,
+    "params": 308650,
+    "final_train_loss": 1.1073647170770364,
+    "seconds": 300.51489186286926,
+    "torch_version": "2.13.0+cu132"
+  },
+  {
+    "file": "final_DROP_EP480_CUTMIX_s1.pt",
+    "member": "DROP_EP480_CUTMIX",
+    "seed": 1,
+    "params": 308650,
+    "final_train_loss": 1.2172462588450947,
+    "seconds": 184.55061078071594,
+    "torch_version": "2.13.0+cu132"
+  },
+  {
+    "file": "final_DROP_EP480_CUTMIX_s2.pt",
+    "member": "DROP_EP480_CUTMIX",
+    "seed": 2,
+    "params": 308650,
+    "final_train_loss": 1.0536585323146133,
+    "seconds": 217.57613492012024,
+    "torch_version": "2.13.0+cu132"
+  }
+]
